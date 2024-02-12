@@ -1,0 +1,12 @@
+/* em uma largura ele aplica as estilizações */
+@media (max-width: 557px){
+   .informacao{
+    display: flex;
+    flex-direction: column;
+   }
+   .rede-social ul{
+    display: flex;
+    flex-direction: column;
+   }
+}
+
